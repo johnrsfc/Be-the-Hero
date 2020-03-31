@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-  <img src="./bethehero.svg">
+  <img src="./logo.svg">
 </h3>
 
 
