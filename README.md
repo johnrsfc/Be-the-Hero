@@ -1,7 +1,7 @@
 ### participação no intensivo da OmniStack 11.0 - [RocketSeat](https://rocketseat.com.br/) :rocket:
 
 <h4 align="center">
-    Participei da minha primeira #SemanaOmniStack da Rocketseat 🚀. Desenvolvendo em uma semana uma aplicação com #BackEnd, #FrontEnd e #Mobile, criando também funcionalidades de testes e validações no BackEnd.
+    Participei da minha primeira #SemanaOmniStack da Rocketseat. Desenvolvendo em uma semana uma aplicação com #BackEnd, #FrontEnd e #Mobile, criando também funcionalidades de testes e validações no BackEnd.
 
 </h4>  
 
