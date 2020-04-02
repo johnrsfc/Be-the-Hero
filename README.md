@@ -16,7 +16,8 @@
  Uma aplicação onde o objetivo é encontrar pessoas a fim de contribuir com ONGs necessitadas de ajuda para alguma causa ocorrida. Na plataforma WEB as ONGs podem se cadastrar informando a causa ocorrida com o seu detalhamento e valor de custo, para que após isso as pessoas no aplicativo MOBILE irão encontrar as ONGs cadastradas e selecionar um (ou mais) casos que queiram contribuir para ajuda.
 
 ### ## :rocket: Technologies
-- Back End: Node.JS, Express e Nodemon;
-- Front End: React.JS para plataforma WEB;
-- React Native para dispositivo MOBILE;
-- Banco de dados: Knex.JS
+✔ Node.js | backend
+✔ Express | backend
+✔ ReactJS | frontend WEB
+✔ React Native | frontend mobile
+✔ Banco de dados: Knex.JS
