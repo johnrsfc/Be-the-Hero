@@ -1,3 +1,4 @@
+const generateUniqueId = require('../utils/generateUniqueId');
 const crypto = require('crypto'); //METEODO NATIVO DO NODE PARA GERAR ID ALEAOTORIOS
 const connection = require('../database/connection');//CONEXÃO COM BANCO
 module.exports = {
@@ -13,7 +14,7 @@ module.exports = {
         //acessando dados
     const {name, email, whatsapp, city, uf} = request.body;
 
-    const id = crypto.randomBytes(4).toString('HEX');
+    const id = generateUniqueId();
 
     //QUANDO CHEGAR AQUI O NODE VAI AGUARDA PÁRA DEPOIS CONTINUAR.
     await connection('ongs').insert({
